@@ -1,7 +1,6 @@
 # 👋 Hola, soy Javier.
-![Imagen](https://i.redd.it/favorite-episode-of-the-animatrix-for-me-its-matriculated-v0-wxd4gz18vocc1.jpg?width=1999&format=pjpg&auto=webp&s=88e2d47240b1d623fb01a5e380ff9c800ff74df7)
-
 ### Cybersecurity | Red Team · Blue Team · SOC · DevSecOps
+![Imagen](https://i.redd.it/favorite-episode-of-the-animatrix-for-me-its-matriculated-v0-wxd4gz18vocc1.jpg?width=1999&format=pjpg&auto=webp&s=88e2d47240b1d623fb01a5e380ff9c800ff74df7)
 
 Profesional de ciberseguridad en formación, orientado a la **seguridad ofensiva y defensiva**, con experiencia práctica en laboratorios virtualizados y escenarios controlados de ataque, detección, respuesta y hardening.
 
